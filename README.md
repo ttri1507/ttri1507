@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <hr>
 
   <kbd>
-    <img src="https://pdxopen.tech/wp-content/uploads/2020/10/hello_world.gif" alt="Hello World" style="width: 300px;"/>
+    <img src="https://i.pinimg.com/originals/d9/cc/2d/d9cc2da01ec1b3e83a1d768bb805c4ef.gif" alt="Hello World" style="width: 300px;"/>
   </kbd>
 -->  
   <hr>
