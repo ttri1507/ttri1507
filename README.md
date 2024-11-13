@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <div align="center">
 <!---
   <hr>
-
+<!-- https://pdxopen.tech/wp-content/uploads/2020/10/hello_world.gif -->
   <kbd>
-    <img src="https://i.pinimg.com/originals/d9/cc/2d/d9cc2da01ec1b3e83a1d768bb805c4ef.gif" alt="Hello World" style="width: 300px;"/>
+    <img src="https://pdxopen.tech/wp-content/uploads/2020/10/hello_world.gif" alt="Hello World" style="width: 300px;"/>
   </kbd>
 -->  
   <hr>
@@ -30,10 +30,10 @@ Here are some ideas to get you started:
   #### হ্যালো&emsp;bonjour&emsp;안녕하세요&emsp;olá&emsp;ਸਤ ਸ੍ਰੀ ਅਕਾਲ&emsp;habari&emsp;ہیلو&emsp;guten tag 
 
   <hr>
-
+<!-- https://media.giphy.com/media/l49JUvg7XunM0Usve/giphy.gif -->
   <kbd>
     <a href="facebook.com/tristana.tran1507">
-      <img src="https://media.giphy.com/media/l49JUvg7XunM0Usve/giphy.gif" alt="Hi!" style="width: 480px;"/>
+      <img src="https://i.pinimg.com/originals/d9/cc/2d/d9cc2da01ec1b3e83a1d768bb805c4ef.gif" alt="Hi!" style="width: 480px;"/>
     </a>
   </kbd>
 
