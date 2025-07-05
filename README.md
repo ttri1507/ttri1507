@@ -43,7 +43,7 @@ Cows can recognize over 100 faces (human and cow alike). So, if Bessie below giv
 ## 📬 Let’s Chew the Cud
 
 Wanna talk code, cows, or climate systems? Hit me up:
-- 🐦 **Facebook**: [MinhTri](https://x.com/your-username)
+- 🐦 **Facebook**: [MinhTri](https://facebook.com/tristana.tran1507)
 - 📧 **Email**: [ttri1507@gmail.com](mailto:ttri1507@gmail.com)
 - 🌐 **Google Sites**: [Google Site](sites.google.com/view/aristrann)
 
