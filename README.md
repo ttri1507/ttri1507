@@ -1,99 +1,114 @@
-# 🐄 Welcome to My Cow Domination Zone! 🐄
+# 🐄 Moo-ve Into My Pasture! 🐄
 
-Moo-ve aside, folks! I'm **[Your Name]**, the Grand Moo-ster of this digital pasture, where cows reign supreme and vibes are grass-level chill. 🌾 This ain't your average GitHub profile—it's a bovine takeover, and you're invited to graze! 🐮
+Hey there, I’m **Tri Tran-Minh**, the Moo-ster of Code and Optimization, grazing through the digital fields of tech! Born in sunny Binh Thuan, Vietnam, I’m a Software Engineer, Researcher, and cow enthusiast ruling this GitHub pasture with a mix of brains and bovine vibes. 🌾 Ready to join the herd? 🐮
 
 ## 🐄 Who’s This Cow?
 
-I'm a [your job/hobby, e.g., code-wrangling, meme-crafting, snack-munching] renegade with a cow obsession. My vibe? **Moo-ve bold, love soft.** Here's what I'm about:
-- 💻 Coding projects that scream "moo-nificent."
-- 🎉 Hoarding cow memes and pixel art like a true rancher.
-- 🌟 Spreading cow-tastic chaos wherever I go.
+I’m a Master’s student in Engineering at **Ho Chi Minh University of Technology (HCMUT)**, with a B.E. in Electronics and Telecommunication Engineering from **HCMUTE** (2021, GPA 3.28, valedictorian of my major). By day, I’m a **Project Manager - Senior Software Engineer & Researcher (Optimization)** at **OPDA-ODMO**, tweaking algorithms like a cow chews cud. By night, I’m diving into Deep Learning, Data Analytics, Geographic Information Systems, and Cell-Free Massive MIMO System.
 
-Currently chewing on:
-- 🛠️ [Something cool you’re working on, e.g., a game with cow vibes].
-- 📚 [What you’re learning, e.g., JavaScript or cow philosophy].
-- 🐄 Polishing my epic ASCII cow (check it below!).
+**Currently grazing on:**
+- 🛠️ Optimizing the world with Algorithms and AI at OPDA (Advisor: Dr. Nguyen Dinh Long).
+- 📚 Mastering my Master’s and exploring climate change with Ho Chi Minh City University of Agriculture and Forestry (Nong Lam University)
+- 🐄 Collecting cow memes
 
-## 🌾 My Grazing Spots
+**Past adventures:**
+- 08/2023 - Present: Software Engineer and Researcher (Optimization) at OPDA-ODMO - Online Optimization Development & Applicationn. Advisor: Dr. Nguyen Dinh Long.
+- 05/2022 - 12/2022: Validation Engineer (Hardware & Silicon Validation) at **Marvell Technology**.
+- 02/2021 - 04/2022: AI Application Engineer (AI Lab) at **Sophic Automation Vietnam**. 
+- 2/2020 - 06/2021: Teaching Assistant about C-Language, Communication Systems and Telecommunication System at HCMC University of Technology and Education, Vietnam. 
+- 2/2020 - 07/2020: Research about Machine Learning, IoTs and Wireless Sensor Network (WSN) at HCMC University of Technology and Education, Vietnam.
 
-My GitHub is a pasture of quirky creations:
-- **[Project/Thing 1](link-to-repo)**: A [something fun, e.g., cow-themed chatbot] I whipped up.
-- **[Project/Thing 2](link-to-repo)**: My wild stab at [something else, e.g., a moo-sic visualizer].
-- Hungry for more? Roam my [repos](https://github.com/your-username?tab=repositories) for cow goodies.
+**Hobbies:** Volleyball, Swimming, Photography, Bike Touring, Reading Book, Chinese Chess, Table Tennis,…
 
-## 🐮 Cow Fact to Blow Your Mind
+## 🌾 My Grazing Grounds
 
-Cows have panoramic vision, seeing almost 360°—so don’t try sneaking up on them! Stick around for more cow wisdom.
+Check out my tech pasture:
+- **[I2C Controller Project](https://doi.org/10.54644/jte.65.2021.141)**: Co-authored a paper on designing an I2C controller (Journal of Technical Education Science, 2021).
+- **[My First Paper - Oral Presentation](link-to-repo)**: 
 
-## 📬 Yo, Let’s Vibe
 
-Wanna talk code, cows, or chaos? Hit me up:
-- 🐦 **X**: [@your-username](https://x.com/your-username)
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 **Blog/Vibes**: [yourwebsite.com](https://yourwebsite.com)
+Wanna see more? Roam my [repos](https://github.com/ttri1507) for hidden gems.
 
-Drop a 🐄 in my DMs, and we’re basically herd-mates.
+## 🐮 Cow Fact to Moo-ve You
 
-## 🐄 My Epic ASCII Cow
+Cows can recognize over 100 faces (human and cow alike). So, if Bessie below gives you the side-eye, you’re officially in the herd!
 
-This is Brutus, my cow-lossal masterpiece. Feast your eyes:
+## 🏅 Moo-tastic Achievements
 
+- **Valedictorian** of Electronics & Telecom Engineering (HCMUTE, GPA 3.28).
+- **Student of 5 Merits** + HCMUTE/Faculty Scholarships (2019–2021).
+- **Bronze Medal** in Geography (Traditional Olympic Competition, April 30, 2015).
+- City-wide medals in **Volleyball, Table Tennis, and Chinese Chess** (2009–2016).
+
+## 📬 Let’s Chew the Cud
+
+Wanna talk code, cows, or climate systems? Hit me up:
+- 🐦 **Facebook**: [MinhTri](https://x.com/your-username)
+- 📧 **Email**: [ttri1507@gmail.com](mailto:ttri1507@gmail.com)
+- 🌐 **Google Sites**: [Google Site](sites.google.com/view/aristrann)
+
+Drop a 🐄 emoji, and we’re instant herd-mates!
+
+## 🐄 Bessie, My Epic Bovine Guardian
+
+Meet Bessie, coded in Python to rule this pasture (scroll to see her full glory!):
+
+```python
+def print_bessie():
+    cow = [
+        "                           &&&;                                             &&&                     ",
+        "                          &   &                                            &   &                    ",
+        "                         &    &                                            &   &                    ",
+        "                        &&    $&        $&&&&      ;&&&                  &&    &&                   ",
+        "                        && .    &&      &    &&&&&&&: &&&&              &&     &&                   ",
+        "                         & &      &&&&&&&& .             ;&&&&:   &&&&&&       &$                   ",
+        "                         &&x     x&X :     ..   &&X&; .:      &&&&  &       & &&                    ",
+        "                           &&& &&&    ....... &&  & & .......     &&      && &&                     ",
+        "           &&&&&&&&&&&x&&&&  &&&   ..::......         ....::.....   & &&&&  &                       ",
+        "            &   &&   &&    X&&&  ..........::.   ............::::. &&&&& &$&&&&&&&&                 ",
+        "             &: . x&&&&&&& &&&  ........    .. & :    ............    &&&&&+       &&&&&&           ",
+        "              &&  x&+&XX&&&&&  ......... &+    & . &. ...:.........            &&&.     &&          ",
+        "               &&&  .&&X&&:&             ;&  &&& . &          ..... +&&&     &&&&&&&&&  &&          ",
+        "                  &&&  &&&&&&&&&&&&&&&&&&&&  x   . ;&&:&&&&&&&&x.      &&&&&&x&       &&:           ",
+        "                    &&&   &           &.       ...    &        x&&&&&  &&& .X     &&&&              ",
+        "                          &    &&&    && :..:....... .&     &&$     &   &&&&&&&&&&+                 ",
+        "                          &           &  ......:.::. X&             &   &                           ",
+        "                          &x         &.  ...........  &            &&   &&                          ",
+        "                          &&&&&  $&&&:  ....:..:....   &&;        &&  . &&                          ",
+        "                          &X&&&&&&X&   ..:............  &&&&&&&&&&&  .. $&                          ",
+        "                         && &&&&&&    .................      :&&&   ... ;&                          ",
+        "                         &&         :...................    &&+    .... ;&                          ",
+        "                         && ::                    .:.......     ....... &&                          ",
+        "                         &&  $&&&&&&&&&&&&&&&&&&&&;     ...:..........  &&                          ",
+        "                         &&&&&                    x&&&&$     .........  &                           ",
+        "                         &                              &&&&:   ......  &&                          ",
+        "                        &                                   &&&  :.:... $&                          ",
+        "                    &&&&                                      &&  ..    .&                          ",
+        "                       &                                        &+ . +&  &                          ",
+        "     &&&&&&&&+        &&   &&&&&&                   &&&&     &&  &   &&  &$                         ",
+        "   &&  x    :+&&   &&X&&   &&&&&&                  &&&&&&        &. x&   &&          ;&&&&&&&&&&    ",
+        "    & &  &  & &        &      +                     &&&&         & &&X   &&          &        X+x   ",
+        "    & &; & && &        &&                                   :x   &&&&  . X&          &; &&  &  &:   ",
+        "    &    & &x &      &&  &&&&$&&&&&&&&&&&&&&&&&&&&&&&           &&&   .. ;&          && &&  &  &&   ",
+        "    &   &  &  &              &&                       .&&&&&&&&&&&   ... :&           &&X&  &  &&   ",
+        "   && & &  & &&&&&&&&&&&&&&&&+ &&&&&&X                      &&+ &&   ...  &&&&&&&&&&&& &    &  $&   ",
+        "    & & &  & +&             & :&& & &&&&&&&&&&&&&&&&&&&&&&&X+&&    .....  &          & &:&& &  x&   ",
+        "    &.& &  & &&  &       X  &&& x &&& &&X&& $:& &++ Xx &  &&&&$    ...... &&x&&&&&&& & X  & &  +&   ",
+        "   x& & &  & &&+&&&&&&&&&&&&& &$&$&&&&&x&&& &:& &&& &X&& &&  &x: ........  &&&&&&&&&&&. x & &  &&   ",
+        "    & & &  & &&            &x;&   &X  ;+&&& & &&$&&&&&&&  &  &.: ......... &&        &&   & &   &   ",
+        "    &:&    & &&            &.X&  X+  &&&:&& &X&&&&&&   &  &  &;  .........  &&       &&;  &x  &&&   ",
+        "    &&   & & &&            & $&  &&  & :  ; &x&      & &  &  &  ..........   &&      &&.  &+   x&   ",
+        "    &X&  & & &&            & &&  &&  & +&   &    &x  & &  &  &  ............  +&&    &&.  &&  & &   ",
+        "    && X X & &&            &  &: $&  & :& . &;&  &+  & &: &  &$ .............   &&   &;&:     & &   ",
+        "     ;   . X  &            &         X      $                                    &&  &          &   "
+    ]
+    for line in cow:
+        print(line)
+
+print_bessie()
+# Output: Bessie, the grand cow ruling this digital pasture!
 ```
- .                         ....                                                                     
- . ...................        .  ...........................................      ... ............  
- . .................  .   @@%  .. ........................................         .. ............. 
- . ................ ..  @@  @@ .. ......        ......................... .  @@@@@  . ............. 
- . ................ .   @   @@  . ....      ....             ............   @@  =@    ............. 
- . ................ .  @@    @                            ...  ..........   @    @  . ............. 
- . ................ .  @     @@.   ...  @@@@@     @@@@@.     .             @@    @@ . ............. 
- . ................ .  @@ @    @@      @@  .-@@@@@@-. *@@@@              @@:     @@ . ............. 
- . ......              @=.-      @@@*@@@@===:.     :-=:.  @@@@@    #@@@@@        @* .. ............ 
- . ..... ..... ......  +@#@ =    @@@@*-. :=++=. @@=#-:+++:    -@@@@           @ @@  .. ............ 
- . ..                   =@@@+ @@@:  .=+++++++=@@#.@%@-++++=++=::. -@@@ +    @@ @@   ..        ..... 
- . . ... @@@@@@@@@@@@@@@  %@@=@@ :+++++++++++=-..::.:-++++++++===-. @@   @@@  @@      ..... .. .... 
- . . ... @@            .@@@ @@. -+++++++++++++==++++++++++++++++++=:@@@@@@  @@- @@          ... ... 
- . .   .  @*.#@@@@@@@@- .  -@. =++++++++==++++---+++++++++++++++++=. @@@@@@*#@@#*@@@@@@@@=   ... .. 
- . .. ..  =@. .  @=#@@@@%+@@% -+++=++++=-=:=== @.+-::=+++++++++++++=:    *@@+  .      =%@@@@  .. .. 
- . ...  .  +@@  #@=@@+@@@@@@ -+++++++++-#@---* @ = @@:+++++++++++++++.+@   ...  =@@@@+.    @  .. .. 
- . .......   @@@: =@@#@%+@@              @--=@:@ + @+ :-=======++++++.@@@:   .@@@@@@@@@@= @@  .. .. 
- . ....   .     @@#  @@@@@@@@@@@@@@@@@@@@@=--@:.:+.#@@-#@@@@@@%+:       @@@@@@@*@       @@@   .. .. 
- . ....... ...    @@@@  @@           @@   .==--=++=.  @@   .  +@@@@@@@  @@#@@@@:     %@@@    .. ... 
- . ........    .        @:    @@@    :@ ++++++++++++-.@      @+      @=  +@@@+::-%@@@@         .... 
- . ............    ...  @@     .  .  @@ ++++++++++++-:@  ..  @@  ..  @@...@  @@@@@%      .......... 
- .. ............... ..  @@           @-:++++++++++++=-@   .      .   @.:- @         ... ........... 
- .. ................ .  *@@        @@=.=++++++++++++=.@@.           @@ == @  ....      ............ 
- .. ...............  .  @@@@@@@@@@@@ .=++++++++++++++=..@@@       @@+.-+= @+ ..  .................  
- . ............... ...  @%#@@##*+#= :=+++++++++++++++++- @@@@@@@@@@@.-+++ @@ .. ................. . 
- . ............... ...  @:@@@#@@@..-=+++++++=+++++++++++..::  #@@%  .=+++ @@ .. ................. . 
- . ................ ..  @.    .  :=++++++++++++++++++++++=:.#@@*  :=+++++ @@ .. ................. . 
- . ................. .  @:-**+*:              :=+++++++++++=.  .-=++++++= @% .. ................. . 
- . ................     @=...+@@@@@@@@@@@@@@@@@@*   :=++++++++++++++++++: @  .. ................. . 
- . ............... ..  %@@@@@@                  @@@@@#:  .-=++++++++++++.%@  .. ................. . 
- . ............... ..  @@@              .            @@@@@@:..-+++++++++ @@  . .................. . 
- . .............. ..   @    .     .       ..   ..         @@@@-.-++=++++.@@  . .................. . 
- .             .      @   ...  ..::------------::...          @@-=++++++: @@ . ...............    . 
- .............    @@@@@        -:::.............::-:       .   @@+:=+=::: @@   ..........      .... 
-              ...    @           ..................              @%:+-.@# @@   ......    ..         
-  @@@@@@@@@    .    .@    @@@@@= .................  @@@@-    :@%  @-- #@# -@   .....                
-*@:---.*-.@@@# . @@@%@    @@@@@@ ................. @@@@@@   #%.   @*  @@ : @    ... ..  @@@@@@@@@@@ 
- @-@= +  %  @  .     @     @@@@  ................. @@@@@@         @- @@ :- @. . ...... @@ .    @ .@-
- @ +@ @+ @ @@  ...   @@                        ...         .      @#@@%.== @= .  .   . @@ @ @  . #@=
- @  @ @- @ @@  ..   @@@@@       =@@@@@@@@@@@@+               @@  :@@@. -+= @*  ..  ...  @ @ @ %@ :@#
- @  @ @  @ @@     @@    -@@@@@@-.            -%@@@@@@@@@@@@+    @@@%-:=++= @=           @ @.@ %@ .@@
- @ .  @ %@ @@               @@@                         @    @@@@@@ -===+= @@           @:%@= *@ -@@
--@:@ .@ @ -@@@@@@@@@@@@@@@@@.*@@@@@@@@@@@@%%+=.          #@@@@@+%@@.-==++= @@+@@@@@@@@@@@.:@  @@ :@@
- @+@ :@ @ +@@ *-          +@ #@@:@-@+@@@@@*@@@@@@@@@@@@@@@@=*=@@  .:++++++.#@ .  -     %@ .@@=@@ :@@
- @#@ :@ @ +@@  @-     :@@ @@@@-%=@@@*#@=@@ @-@@ @*+ @.-++ @=@@%@.:==++++++:.@@@@@@@@@@ @@ +.-:*@ .@@
- @.@ -@ @-.@@ @@@@@@@@@@@:@-=@%@%@@@@@%%@@ @@#@ @@@ @ @@% @@% @@:-++++++++= @@-@@@@@@@@@@ @ @#+@ .@@
-%@ @ -@ @+ @@@@@@@@@@=   =@:=@ .@@+ +@%@@@ @@=@%@@@=@ @@@=@: .@%:=+++++++++: @= .--    @@.* +@%#  -@
- @ @ -% @@ @@            :@.+@ .#+ @@ -@.@ @@+@*@@@@@@.@  @% :@@==+++++++++= @@        @@-  .@@  @@@
- @@@  =  @ @@ ...      . @@.#@ .@@. @.*@@@@@@@@@@#   - @= @@..@ -=++++++++++: @@=   .. @@%. .@@   =@
- @@   @+ @ @@ .. ... ..  @@.%@ :@@::@= @   *.    **::%=@# @@..@.=++++++++++++: %@@   . @@@- :@@  @.@
- @=@% %: @ @@  . ... ..  @@.@@ :@@::@# @:=-%@:.-:@%:-#*%@ @@.:@+=+++++++++++++- =@@    @@=  +@.  @ @
- @@:@ -# @ =@   .    .   @@  @ :@@::@% @*===@@#:.@#:-*@@@ @@--*+=++++++++++++++=  @@.  @@#@   %  @ @
- #     : @  @            @@  @  .-  :. :    @    .    .                            +@  @      . *  @
-```
 
-Brutus says: "This pasture’s mine, but you can graze if you’re cool." 😎
+Bessie says: “Big, bold, and coded to dominate—welcome to my herd!” 😎
 
 **Keep it grassy, y’all!** 🐄
