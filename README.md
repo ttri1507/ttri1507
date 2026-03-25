@@ -30,9 +30,9 @@ My core research and professional work lie at the intersection of wireless commu
 ## 📄 Selected Publications & Projects
 
 * [**Design and Implementation of an I2C Controller**](https://doi.org/10.54644/jte.65.2021.141) – *Journal of Technical Education Science* (2021).
-* [**An Application of Virtual Assistants for Enhancing the Speaking Skills for EFL Learners: A SpeakBot for Dong Nai University**](Presented) – *The Bach Khoa Youths Science and Technology conference* (2024).
+* [**An Application of Virtual Assistants for Enhancing the Speaking Skills for EFL Learners: A SpeakBot for Dong Nai University**](Presented) – *Conference on Application of information technology in teaching, testing and assessing foreign language proficiency* (10/2023).
 * [**Optimizing Cost Effectiveness and Resource Allocation in Mobile Edge Computing**](Presented) – *The Bach Khoa Youths Science and Technology conference* (2024).
-* [**A Hybrid Approach to On-Grid and Off-Grid Solar Energy with Optimum Investment: A Case Study in Vietnam**](https://doi.org/10.4108/eettti.6890) – *EAI Endorsed Transactions on Tourism, Technology and Intelligence* (2024).
+* [**A Hybrid Approach to On-Grid and Off-Grid Solar Energy with Optimum Investment: A Case Study in Vietnam**](https://doi.org/10.4108/eettti.6890) – *EAI Endorsed Transactions on Tourism, Technology and Intelligence* (12/2024).
 * [**Multi-objective Optimization of User-centric Performance Design in UAV-SATCOM-enabled Cell-Free massive MIMO Networks**](https://doi.org/10.1007/978-3-032-02362-9_9) – *International Conference on Industrial Networks and Intelligent Systems (INISCOM)* (2025).
 * [**Joint Optimization of Energy and Latency for Hybrid Near-Field and Far-Field Localization with Multi-access Edge Computing**](Accepted) – *International Conference on Industrial Networks and Intelligent Systems (INISCOM)* (2026).
 ## 🛠️ Technical Arsenal
